@@ -2,8 +2,6 @@
 
 This is the first file in this repo.
 
-##Ipsum Below 
+##website contents 
 
-Loren Ipsum
-
-Some more rubbish being added 
+1. adding index.html
